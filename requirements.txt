@@ -1,1 +1,4 @@
 Django
+djangorestframework-3.13.1.dist-info
+jwt
+rest_framework_simplejwt
